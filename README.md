@@ -1,6 +1,6 @@
 # trick3-animation-css
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**This is my training which is a animation trick that has made with HTML & CSS**
 
 ![view](https://github.com/user-attachments/assets/46ddddc3-342e-412d-8c03-750c33654382)
 
