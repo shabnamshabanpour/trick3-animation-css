@@ -2,7 +2,7 @@
 
 **This is my training which is a animation trick that has made with HTML & CSS**
 
-![view](https://github.com/user-attachments/assets/46ddddc3-342e-412d-8c03-750c33654382)
+<img width="627" height="453" alt="Image" src="https://github.com/user-attachments/assets/1720fa5b-39c6-4871-909e-eae10b654231" />
 
 
 🌐[Demo Project](https://shabnamshabanpour.github.io/trick3-animation-css/)
